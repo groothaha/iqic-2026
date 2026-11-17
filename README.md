@@ -52,7 +52,7 @@ These times are not independent proof of order: the first commit of this reposit
 
 ## Final selection
 
-`scripts/live_select.py` produces the 30 stocks bought on 2 November: `out/live_e0_2026-10-30.csv` (prices as of the 30 October close; added after that close). `scripts/beta_overlay.py` then sets the futures position: `out/beta_overlay_2026-10-30.csv` (2 contracts). `out/live_e0_2026-10-23.csv` is the 23 October preview cited in §3. During trading I will add the order log, with the rule behind each order.
+`scripts/live_select.py` produces the 30 stocks bought on 2 November: `out/live_e0_2026-10-30.csv` (prices as of the 30 October close; added after that close). `scripts/beta_overlay.py` then sets the futures position: `out/beta_overlay_2026-10-30.csv` (2 contracts). `out/live_e0_2026-10-23.csv` is the 23 October preview cited in §3. `out/orders_2026-11-02.csv` is the order log: 31 orders (30 stocks and 2 contracts of MESZ6), all filled on 2 November between 09:32 and 09:37 on the StockTrak clock (Pacific time), each with its confirmation number and the rule behind it. StockTrak hides fill prices on screen, so the price column is the filled amount divided by the share count (for the futures it is the contract price at entry). There have been no orders since: StockTrak showed 31 of 200 trades on 17 November.
 
 ## Running the code
 

@@ -1,0 +1,32 @@
+time_pt,symbol,side,qty,type,price,amount,confirmation,rule
+11/02/2026 09:32 AM,PECO,Buy,85,Market,39.58,3364.3,06AC83CD,initial equal-weight buy
+11/02/2026 09:32 AM,FE,Buy,71,Market,47.18,3349.78,4AF6BE1F,initial equal-weight buy
+11/02/2026 09:32 AM,IVT,Buy,107,Market,31.32,3351.24,37DF3393,initial equal-weight buy
+11/02/2026 09:32 AM,OGE,Buy,67,Market,49.71,3330.57,E5824A30,initial equal-weight buy
+11/02/2026 09:33 AM,CHCO,Buy,23,Market,145.98,3357.54,EA099D8C,initial equal-weight buy
+11/02/2026 09:33 AM,WEC,Buy,28,Market,116.22,3254.16,6484FF3B,initial equal-weight buy
+11/02/2026 09:33 AM,EGP,Buy,16,Market,200.81,3212.96,08F07C48,initial equal-weight buy
+11/02/2026 09:33 AM,ADC,Buy,49,Market,67.63,3313.87,3A00CA3C,initial equal-weight buy
+11/02/2026 09:33 AM,BRX,Buy,114,Market,29.32,3342.48,78316C1A,initial equal-weight buy
+11/02/2026 09:33 AM,CMS,Buy,47,Market,70.26,3302.22,09087540,initial equal-weight buy
+11/02/2026 09:33 AM,CNP,Buy,78,Market,42.26,3296.28,5F5F8A62,initial equal-weight buy
+11/02/2026 09:33 AM,WPC,Buy,52,Market,64.25,3341.0,00B9F14D,initial equal-weight buy
+11/02/2026 09:34 AM,NI,Buy,74,Market,44.69,3307.06,8DA8BB93,initial equal-weight buy
+11/02/2026 09:34 AM,CBSH,Buy,60,Market,55.93,3355.8,8563744D,initial equal-weight buy
+11/02/2026 09:34 AM,KO,Buy,35,Market,95.42,3339.7,D07ED602,initial equal-weight buy
+11/02/2026 09:34 AM,LIN,Buy,6,Market,519.65,3117.9,B4D0BFDC,initial equal-weight buy
+11/02/2026 09:34 AM,SNA,Buy,9,Market,365.72,3291.48,A92FF8B6,initial equal-weight buy
+11/02/2026 09:34 AM,FCF,Buy,158,Market,21.54,3403.32,50405FA6,initial equal-weight buy
+11/02/2026 09:34 AM,CFR,Buy,21,Market,160.11,3362.31,EFB04A7D,initial equal-weight buy
+11/02/2026 09:34 AM,WABC,Buy,54,Market,61.74,3333.96,6EA482A6,initial equal-weight buy
+11/02/2026 09:34 AM,CB,Buy,9,Market,367.16,3304.44,B09B5EF7,initial equal-weight buy
+11/02/2026 09:35 AM,COST,Buy,3,Market,1036.33,3108.99,DC6F06BF,initial equal-weight buy
+11/02/2026 09:35 AM,RSG,Buy,13,Market,243.77,3169.01,9EBBEA8E,initial equal-weight buy
+11/02/2026 09:35 AM,JNJ,Buy,12,Market,269.26,3231.12,AB80ACAE,initial equal-weight buy
+11/02/2026 09:35 AM,BCPC,Buy,19,Market,173.89,3303.91,474B8A10,initial equal-weight buy
+11/02/2026 09:35 AM,PG,Buy,20,Market,163.13,3262.6,BAAC56F2,initial equal-weight buy
+11/02/2026 09:35 AM,KMI,Buy,98,Market,33.03,3236.94,C1F4FC54,initial equal-weight buy
+11/02/2026 09:35 AM,NSC,Buy,9,Market,346.08,3114.72,86B4128A,initial equal-weight buy
+11/02/2026 09:35 AM,ECL,Buy,11,Market,308.15,3389.65,D26FA45E,initial equal-weight buy
+11/02/2026 09:36 AM,PEP,Buy,24,Market,139.6,3350.4,ECD013E0,initial equal-weight buy
+11/02/2026 09:37 AM,MES/Z6,Buy,2,Market,7641.0,0.0,1355F3C9,"beta adjustment (margin $5,172; notional $76,410)"
